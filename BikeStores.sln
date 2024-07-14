@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BikeStores", "BikeStores.sqlproj", "{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A92D80F-BFAA-4BB8-8F57-5C890929D357}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B1580B-25A1-4EF3-9D05-8C55DF2AB34E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DDD0CD-6587-46D1-B2B4-4781B7E1B656}
+	EndGlobalSection
+EndGlobal
